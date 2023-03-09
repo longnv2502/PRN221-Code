@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RazorPageLab2.props" />
+</Project>

@@ -1,0 +1,10 @@
+﻿@page
+@model RazorPage2.Pages.ModelBindingPage1Model
+@{
+}
+<form method="post">
+    <input type="text" name="username" placeholder="Enter Username"/>
+    <input type="email" name="email" placeholder="Enter Email"/>
+    <button class="btn btn-danger" type="submit">Send</button>
+</form>
+@ViewData["Confimrmation"]

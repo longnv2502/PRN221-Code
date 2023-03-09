@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPagesSingleFileApproach
+build_property.RootNamespace = RazorPagesSingleFileApproach
+build_property.ProjectDir = C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages\RazorPagesSingleFileApproach\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages\RazorPagesSingleFileApproach
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/ActionResultsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aW9uUmVzdWx0c1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/PageModelFiles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZU1vZGVsRmlsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/PartialPages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlhbFBhZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/RoutingPage1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGluZ1BhZ2UxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/RoutingPage2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGluZ1BhZ2UyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/RoutingPage3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGluZ1BhZ2UzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/RoutingPage4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGluZ1BhZ2U0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/RoutingPage5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGluZ1BhZ2U1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/Shared/Components/Employee3/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcRW1wbG95ZWUzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/Shared/Components/Employee3/EmployeeView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcRW1wbG95ZWUzXEVtcGxveWVlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/Shared/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/SingleFile01.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2luZ2xlRmlsZTAxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/SingleFile02.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2luZ2xlRmlsZTAyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/TagHelpersPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFnSGVscGVyc1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/ViewComponentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld0NvbXBvbmVudFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/ViewDataPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld0RhdGFQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0wi29sate2

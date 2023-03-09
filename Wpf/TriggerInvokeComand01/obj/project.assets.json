@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Expression.Interaction/3.0.40218": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Microsoft.Expression.Interactions.dll": {},
+          "lib/net46/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Microsoft.Expression.Interactions.dll": {},
+          "lib/net46/System.Windows.Interactivity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expression.Interaction/3.0.40218": {
+      "sha512": "q05lv/bWH+zJYUpZw5Kap7oHsZZIxhYVokmhOvB5MkPRG9xGMTicuhrZ42ukxBYxSozWocToBHk+k9/IxOkSMg==",
+      "type": "package",
+      "path": "expression.interaction/3.0.40218",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "expression.interaction.3.0.40218.nupkg.sha512",
+        "expression.interaction.nuspec",
+        "lib/net45/Microsoft.Expression.Interactions.dll",
+        "lib/net45/System.Windows.Interactivity.dll",
+        "lib/net46/Microsoft.Expression.Interactions.dll",
+        "lib/net46/System.Windows.Interactivity.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Expression.Interaction >= 3.0.40218"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dclon\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dclon\\OneDrive - 1gtfy6\\Documents\\FPT_University\\23_SPR\\PRN221\\Project\\Wpf\\TriggerInvokeComand01\\TriggerInvokeComand01.csproj",
+      "projectName": "TriggerInvokeComand01",
+      "projectPath": "C:\\Users\\dclon\\OneDrive - 1gtfy6\\Documents\\FPT_University\\23_SPR\\PRN221\\Project\\Wpf\\TriggerInvokeComand01\\TriggerInvokeComand01.csproj",
+      "packagesPath": "C:\\Users\\dclon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dclon\\OneDrive - 1gtfy6\\Documents\\FPT_University\\23_SPR\\PRN221\\Project\\Wpf\\TriggerInvokeComand01\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dclon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Expression.Interaction": {
+            "target": "Package",
+            "version": "[3.0.40218, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Expression.Interaction 3.0.40218' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Expression.Interaction",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

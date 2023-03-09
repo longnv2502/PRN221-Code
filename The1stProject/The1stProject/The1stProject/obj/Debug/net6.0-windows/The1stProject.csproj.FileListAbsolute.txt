@@ -1,0 +1,60 @@
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.exe
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.deps.json
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.runtimeconfig.json
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.pdb
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject_MarkupCompile.cache
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject_MarkupCompile.lref
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.g.resources
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.AssemblyInfo.cs
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.csproj.CopyComplete
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\refint\The1stProject.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.pdb
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.genruntimeconfig.cache
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\ref\The1stProject.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.exe
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.deps.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.runtimeconfig.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\The1stProject.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject_MarkupCompile.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject_MarkupCompile.lref
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\Dashboard.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.g.resources
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.AssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.csproj.CopyComplete
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\refint\The1stProject.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\The1stProject.genruntimeconfig.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\ref\The1stProject.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\dclon\OneDrive-1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\The1stProject\The1stProject\The1stProject\obj\Debug\net6.0-windows\Dashboard.baml

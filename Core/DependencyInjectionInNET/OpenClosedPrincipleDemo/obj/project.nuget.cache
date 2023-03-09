@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M+Drd6S6wHXolKexnUF3sJuJ4b8dJ5NHVsHOxtzDD6LBmxsTFzITl+j8fImqYZpbvzhT6DCzdW7mE+jrsK+n9Q==",
+  "success": true,
+  "projectFilePath": "C:\\FPT\\PRN221\\Project\\DependencyInjectionInNET\\OpenClosedPrincipleDemo\\OpenClosedPrincipleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teacher\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\App.g.cs
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration_MarkupCompile.cache
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration_MarkupCompile.lref
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.exe
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.deps.json
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.runtimeconfig.json
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.dll
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.pdb
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\MainWindow.baml
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.g.resources
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.AssemblyInfo.cs
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.dll
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\refint\JsonDemonstration.dll
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.pdb
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.genruntimeconfig.cache
+C:\FPT\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\ref\JsonDemonstration.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.exe
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.deps.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.runtimeconfig.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\bin\Debug\net6.0-windows\JsonDemonstration.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration_MarkupCompile.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration_MarkupCompile.lref
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.g.resources
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.AssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\refint\JsonDemonstration.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\JsonDemonstration.genruntimeconfig.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\XmlJsonSerializing\JsonDemonstration\obj\Debug\net6.0-windows\ref\JsonDemonstration.dll

@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYzliIjL3SONBAcvcPVmQHcV5bD6MgJbrI6jYithJCz6mqsXh6o3UGXnhr3AbXK3pOwUX22uSTqd4iiiK66bCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dclon\\OneDrive - 1gtfy6\\Documents\\FPT_University\\23_SPR\\PRN221\\Project\\The1stProject\\The1stProject\\The1stProject\\The1stProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dclon\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\dclon\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\dclon\\.nuget\\packages\\materialdesigncolors\\2.1.1-ci130\\materialdesigncolors.2.1.1-ci130.nupkg.sha512",
+    "C:\\Users\\dclon\\.nuget\\packages\\materialdesignthemes\\4.7.1-ci130\\materialdesignthemes.4.7.1-ci130.nupkg.sha512",
+    "C:\\Users\\dclon\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts.Wpf 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

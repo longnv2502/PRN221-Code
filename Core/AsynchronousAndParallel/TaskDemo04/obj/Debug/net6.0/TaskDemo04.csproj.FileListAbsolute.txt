@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\TaskDemo04.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\TaskDemo04.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\TaskDemo04.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\TaskDemo04.AssemblyInfo.cs
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\TaskDemo04.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\bin\Debug\net6.0\TaskDemo04.exe
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\bin\Debug\net6.0\TaskDemo04.deps.json
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\bin\Debug\net6.0\TaskDemo04.runtimeconfig.json
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\bin\Debug\net6.0\TaskDemo04.dll
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\bin\Debug\net6.0\TaskDemo04.pdb
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\TaskDemo04.dll
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\refint\TaskDemo04.dll
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\TaskDemo04.pdb
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\TaskDemo04.genruntimeconfig.cache
+C:\FPT\PRN221\Project\AsynchronousAndParallel\TaskDemo04\obj\Debug\net6.0\ref\TaskDemo04.dll

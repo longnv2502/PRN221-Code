@@ -1,0 +1,24 @@
+﻿@page
+@model RazorPage2.Pages.ValidationPageModel
+@{
+}
+<form method="post" class="m-2 p-3 bg-light">
+      <div class="form-group">
+        <label asp-for="@Model.UserName"></label>
+        <input class="form-control" asp-for="@Model.UserName" />
+          <span asp-validation-for="@Model.UserName" class="text-danger"></span>  
+      </div>
+    <div class="form-group">
+        <label asp-for="@Model.Password"></label>
+        <input class="form-control" asp-for="@Model.Password" />
+        <span asp-validation-for="@Model.Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Password2"></label>
+        <input class="form-control" asp-for="@Model.Password2" />
+        <span asp-validation-for="@Model.Password2" class="text-danger"></span>
+    </div>
+      <div class="form-group">
+          <button class="btn btn-danger" asp-page="Form">Send</button>
+      </div>
+ </form>

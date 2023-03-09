@@ -1,0 +1,18 @@
+﻿@page
+@model RazorPagesSingleFileApproach.Pages.TagHelpersPageModel
+@{
+}
+<form method="post">
+    PersonId <input asp-for="Member.PersonId" /><br />
+    Name <input asp-for="Member.Name" /><br />
+    Email <input asp-for="Member.Email" /><br />
+   Password <input asp-for="Member.Password" /><br />
+    Telephone <input asp-for="Member.Telephone" /><br />
+    Website  <input asp-for="Member.Website" /><br />
+    DateOfBirth <input asp-for="Member.DateOfBirth" /><br />
+    Salary <input asp-for="Member.Salary" /><br />
+    SendSpam <input asp-for="Member.SendSpam" /><br />
+    NumberOfCats <input asp-for="Member.NumberOfCats" /><br />
+    Selfies <input asp-for="Member.Selfies" /><br />
+    <button>submit</button>
+</form>

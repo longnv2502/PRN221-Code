@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\bin\Debug\net6.0\UDPServerApp.exe
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\bin\Debug\net6.0\UDPServerApp.deps.json
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\bin\Debug\net6.0\UDPServerApp.runtimeconfig.json
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\bin\Debug\net6.0\UDPServerApp.dll
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\bin\Debug\net6.0\UDPServerApp.pdb
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\UDPServerApp.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\UDPServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\UDPServerApp.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\UDPServerApp.AssemblyInfo.cs
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\UDPServerApp.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\UDPServerApp.dll
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\refint\UDPServerApp.dll
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\UDPServerApp.pdb
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\UDPServerApp.genruntimeconfig.cache
+C:\FPT\PRN221\Project\TCPService\UDPServerApp\obj\Debug\net6.0\ref\UDPServerApp.dll

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "UU8M+kTeXWZ8PCRTQ///svFJ7SE7gJ4v+WAUuQ0FifyiuepnNy4Y6HLv9tKuWj/tyXN/QBBgBDRVOYujsnNngA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dclon\\OneDrive - 1gtfy6\\Documents\\FPT_University\\23_SPR\\PRN221\\Project\\Wpf\\TriggerInvokeComand01\\TriggerInvokeComand01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dclon\\.nuget\\packages\\expression.interaction\\3.0.40218\\expression.interaction.3.0.40218.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Expression.Interaction 3.0.40218' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Expression.Interaction",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

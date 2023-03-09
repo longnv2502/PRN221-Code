@@ -1,0 +1,110 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "The1stProject/1.0.0": {
+        "dependencies": {
+          "LiveCharts.Wpf": "0.9.7",
+          "MaterialDesignColors": "2.1.1-ci130",
+          "MaterialDesignThemes": "4.7.1-ci130"
+        },
+        "runtime": {
+          "The1stProject.dll": {}
+        }
+      },
+      "LiveCharts/0.9.7": {
+        "runtime": {
+          "lib/net45/LiveCharts.dll": {
+            "assemblyVersion": "0.9.7.0",
+            "fileVersion": "0.9.7.0"
+          }
+        }
+      },
+      "LiveCharts.Wpf/0.9.7": {
+        "dependencies": {
+          "LiveCharts": "0.9.7"
+        },
+        "runtime": {
+          "lib/net45/LiveCharts.Wpf.dll": {
+            "assemblyVersion": "0.9.7.0",
+            "fileVersion": "0.9.7.0"
+          }
+        }
+      },
+      "MaterialDesignColors/2.1.1-ci130": {
+        "runtime": {
+          "lib/net6.0/MaterialDesignColors.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.7.1-ci130": {
+        "dependencies": {
+          "MaterialDesignColors": "2.1.1-ci130",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39"
+        },
+        "runtime": {
+          "lib/net6.0/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.39.4716"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The1stProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiveCharts/0.9.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p4xyBrUaNNfkWZSNsIle0r51cyVyFg0Yi0uBRZM5GQtdFiA/7guZHlffFyNUILIdux10Ch2hUaJpcZENVU9aaQ==",
+      "path": "livecharts/0.9.7",
+      "hashPath": "livecharts.0.9.7.nupkg.sha512"
+    },
+    "LiveCharts.Wpf/0.9.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lv6YZoK0B4yWykMq5b9grZXtIbTj+OWu4sVN9GDpdgV6zffu64m4d5CW8KSjfSl9rB8VU649x1NZvhoU67hCDg==",
+      "path": "livecharts.wpf/0.9.7",
+      "hashPath": "livecharts.wpf.0.9.7.nupkg.sha512"
+    },
+    "MaterialDesignColors/2.1.1-ci130": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BJhX7lEJom345ArGVDW4qXFufruJD08Pv9K3QK5HbhO2O0X+SjcFejwKuAjNAO2pxyx8eN4y3ALqPbSPbEAciQ==",
+      "path": "materialdesigncolors/2.1.1-ci130",
+      "hashPath": "materialdesigncolors.2.1.1-ci130.nupkg.sha512"
+    },
+    "MaterialDesignThemes/4.7.1-ci130": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sV0YvcY4Pj8YuXaePIHKYfLcZnmvHfM5f1kPAvjY+nOj1wQnfqEmzbtun0za3mWlSSoFrKWhccGkHKtsSwL3EA==",
+      "path": "materialdesignthemes/4.7.1-ci130",
+      "hashPath": "materialdesignthemes.4.7.1-ci130.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    }
+  }
+}

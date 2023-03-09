@@ -1,0 +1,8 @@
+﻿@page "/thirdpage/{a:int?}"
+@model RazorPagesSingleFileApproach.Pages.RountingPage3Model
+@{
+    for(int i = 1; i <= Int32.Parse(this.Request.RouteValues["a"].ToString()); i++)
+    {
+        <li>@i</li>
+    }
+}

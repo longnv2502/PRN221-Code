@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodel="clr-namespace:ProductCURD01.ViewModel"
+                    >
+    <viewmodel:ProductVM x:Key="ProductVM"></viewmodel:ProductVM>
+</ResourceDictionary>

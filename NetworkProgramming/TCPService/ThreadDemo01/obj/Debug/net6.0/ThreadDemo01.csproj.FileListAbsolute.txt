@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\bin\Debug\net6.0\ThreadDemo01.exe
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\bin\Debug\net6.0\ThreadDemo01.deps.json
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\bin\Debug\net6.0\ThreadDemo01.runtimeconfig.json
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\bin\Debug\net6.0\ThreadDemo01.dll
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\bin\Debug\net6.0\ThreadDemo01.pdb
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ThreadDemo01.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ThreadDemo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ThreadDemo01.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ThreadDemo01.AssemblyInfo.cs
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ThreadDemo01.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ThreadDemo01.dll
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\refint\ThreadDemo01.dll
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ThreadDemo01.pdb
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ThreadDemo01.genruntimeconfig.cache
+C:\FPT\PRN221\Project\TCPService\ThreadDemo01\obj\Debug\net6.0\ref\ThreadDemo01.dll

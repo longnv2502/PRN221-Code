@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZFSmBJdZUXeJfQva0Mrlxgw9Iqev2BQumDL9ZcKe4rv8H53WBdVwS9AIbTPcbqq562jcQ4fq7t8ba+kKgIFVA==",
+  "success": true,
+  "projectFilePath": "C:\\FPT\\PRN221\\Project\\DependencyInjectionInNET\\SingleResponsibilityPrincipleDemo01\\SingleResponsibilityPrincipleDemo01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teacher\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

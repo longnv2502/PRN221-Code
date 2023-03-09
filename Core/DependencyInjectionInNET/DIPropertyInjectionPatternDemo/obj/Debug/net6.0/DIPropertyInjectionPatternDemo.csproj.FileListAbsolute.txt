@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\bin\Debug\net6.0\DIPropertyInjectionPatternDemo.exe
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\bin\Debug\net6.0\DIPropertyInjectionPatternDemo.deps.json
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\bin\Debug\net6.0\DIPropertyInjectionPatternDemo.runtimeconfig.json
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\bin\Debug\net6.0\DIPropertyInjectionPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\bin\Debug\net6.0\DIPropertyInjectionPatternDemo.pdb
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\DIPropertyInjectionPatternDemo.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\DIPropertyInjectionPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\DIPropertyInjectionPatternDemo.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\DIPropertyInjectionPatternDemo.AssemblyInfo.cs
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\DIPropertyInjectionPatternDemo.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\DIPropertyInjectionPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\refint\DIPropertyInjectionPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\DIPropertyInjectionPatternDemo.pdb
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\DIPropertyInjectionPatternDemo.genruntimeconfig.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIPropertyInjectionPatternDemo\obj\Debug\net6.0\ref\DIPropertyInjectionPatternDemo.dll

@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\bin\Debug\net6.0\HttpClientDemo01.exe
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\bin\Debug\net6.0\HttpClientDemo01.deps.json
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\bin\Debug\net6.0\HttpClientDemo01.runtimeconfig.json
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\bin\Debug\net6.0\HttpClientDemo01.dll
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\bin\Debug\net6.0\HttpClientDemo01.pdb
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\HttpClientDemo01.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\HttpClientDemo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\HttpClientDemo01.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\HttpClientDemo01.AssemblyInfo.cs
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\HttpClientDemo01.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\HttpClientDemo01.dll
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\refint\HttpClientDemo01.dll
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\HttpClientDemo01.pdb
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\HttpClientDemo01.genruntimeconfig.cache
+C:\FPT\PRN221\Project\NetworkProgramming\HttpClientDemo01\obj\Debug\net6.0\ref\HttpClientDemo01.dll

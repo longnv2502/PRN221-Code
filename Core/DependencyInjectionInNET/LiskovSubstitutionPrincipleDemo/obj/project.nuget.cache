@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rb785+DFOLd138qFS+jcvhKT4xbppxZickV+7z0C7+1ZcGxM5tazuq83UiTcLg4xTuQ8r7Fnnkj1UnwRdhN0yQ==",
+  "success": true,
+  "projectFilePath": "C:\\FPT\\PRN221\\Project\\DependencyInjectionInNET\\LiskovSubstitutionPrincipleDemo\\LiskovSubstitutionPrincipleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teacher\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

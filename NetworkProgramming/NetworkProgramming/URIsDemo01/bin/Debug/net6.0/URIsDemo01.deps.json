@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "URIsDemo01/1.0.0": {
+        "runtime": {
+          "URIsDemo01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URIsDemo01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

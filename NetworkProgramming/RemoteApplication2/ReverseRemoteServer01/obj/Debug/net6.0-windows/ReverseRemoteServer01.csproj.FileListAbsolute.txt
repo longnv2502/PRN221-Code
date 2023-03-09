@@ -1,0 +1,42 @@
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.exe
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.deps.json
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.runtimeconfig.json
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.dll
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.pdb
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\App.g.cs
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01_MarkupCompile.cache
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01_MarkupCompile.lref
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\MainWindow.baml
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.g.resources
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.AssemblyInfo.cs
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.dll
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\refint\ReverseRemoteServer01.dll
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.pdb
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.genruntimeconfig.cache
+C:\FPT\PRN221\Project\RemoteApplication\ReverseRemoteServer01\obj\Debug\net6.0-windows\ref\ReverseRemoteServer01.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.exe
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.deps.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.runtimeconfig.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\bin\Debug\net6.0-windows\ReverseRemoteServer01.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01_MarkupCompile.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01_MarkupCompile.lref
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.g.resources
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.AssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\refint\ReverseRemoteServer01.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ReverseRemoteServer01.genruntimeconfig.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\RemoteApplication2\ReverseRemoteServer01\obj\Debug\net6.0-windows\ref\ReverseRemoteServer01.dll

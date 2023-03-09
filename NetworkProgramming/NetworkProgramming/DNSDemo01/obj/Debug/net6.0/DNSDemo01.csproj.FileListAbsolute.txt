@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\bin\Debug\net6.0\DNSDemo01.exe
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\bin\Debug\net6.0\DNSDemo01.deps.json
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\bin\Debug\net6.0\DNSDemo01.runtimeconfig.json
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\bin\Debug\net6.0\DNSDemo01.dll
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\bin\Debug\net6.0\DNSDemo01.pdb
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\DNSDemo01.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\DNSDemo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\DNSDemo01.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\DNSDemo01.AssemblyInfo.cs
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\DNSDemo01.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\DNSDemo01.dll
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\refint\DNSDemo01.dll
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\DNSDemo01.pdb
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\DNSDemo01.genruntimeconfig.cache
+C:\FPT\PRN221\Project\NetworkProgramming\DNSDemo01\obj\Debug\net6.0\ref\DNSDemo01.dll

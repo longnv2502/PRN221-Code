@@ -1,0 +1,30 @@
+C:\FPT\PRN221\Project\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.exe
+C:\FPT\PRN221\Project\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.deps.json
+C:\FPT\PRN221\Project\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.runtimeconfig.json
+C:\FPT\PRN221\Project\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.dll
+C:\FPT\PRN221\Project\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.pdb
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.AssemblyInfo.cs
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.dll
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\refint\ClientApp.dll
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.pdb
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.genruntimeconfig.cache
+C:\FPT\PRN221\Project\TCPService\ClientApp\obj\Debug\net6.0\ref\ClientApp.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.exe
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.deps.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.runtimeconfig.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\bin\Debug\net6.0\ClientApp.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.AssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\refint\ClientApp.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ClientApp.genruntimeconfig.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\NetworkProgramming\TCPService\ClientApp\obj\Debug\net6.0\ref\ClientApp.dll

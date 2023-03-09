@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TriggerInvokeComand01/1.0.0": {
+        "dependencies": {
+          "Expression.Interaction": "3.0.40218"
+        },
+        "runtime": {
+          "TriggerInvokeComand01.dll": {}
+        }
+      },
+      "Expression.Interaction/3.0.40218": {
+        "runtime": {
+          "lib/net46/Microsoft.Expression.Interactions.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          },
+          "lib/net46/System.Windows.Interactivity.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TriggerInvokeComand01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Expression.Interaction/3.0.40218": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q05lv/bWH+zJYUpZw5Kap7oHsZZIxhYVokmhOvB5MkPRG9xGMTicuhrZ42ukxBYxSozWocToBHk+k9/IxOkSMg==",
+      "path": "expression.interaction/3.0.40218",
+      "hashPath": "expression.interaction.3.0.40218.nupkg.sha512"
+    }
+  }
+}

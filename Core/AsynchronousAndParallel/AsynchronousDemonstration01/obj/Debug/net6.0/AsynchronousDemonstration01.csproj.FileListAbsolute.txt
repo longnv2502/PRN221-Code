@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.exe
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.deps.json
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.runtimeconfig.json
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.dll
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.pdb
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.AssemblyInfo.cs
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.dll
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\refint\AsynchronousDemonstration01.dll
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.pdb
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.genruntimeconfig.cache
+C:\FPT\PRN221\Project\AsynchronousAndParallel\AsynchronousDemonstration01\obj\Debug\net6.0\ref\AsynchronousDemonstration01.dll

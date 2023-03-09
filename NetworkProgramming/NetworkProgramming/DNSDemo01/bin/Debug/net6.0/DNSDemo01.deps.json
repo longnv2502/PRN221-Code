@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DNSDemo01/1.0.0": {
+        "runtime": {
+          "DNSDemo01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DNSDemo01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

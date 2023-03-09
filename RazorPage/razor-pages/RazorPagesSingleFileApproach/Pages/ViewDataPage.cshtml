@@ -1,0 +1,17 @@
+﻿@page
+@model RazorPagesSingleFileApproach.Pages.ViewDataPageModel
+@{
+    ViewData["Title"] = "View Data Title";
+}
+<title>@ViewData["Title"]</title>
+<h2>@Model.Message</h2>
+<h2>@ViewData["Message"]</h2>
+<h1>.......Complex Object.......</h1>
+<ul>
+    @foreach (var std in ViewData["students"] as IList<Student>)
+    {
+        <li>
+            @std.StudentName
+        </li>
+    }
+</ul>

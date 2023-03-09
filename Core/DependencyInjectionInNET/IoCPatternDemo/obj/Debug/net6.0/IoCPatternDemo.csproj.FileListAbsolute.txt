@@ -1,0 +1,17 @@
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\IoCPatternDemo.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\IoCPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\IoCPatternDemo.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\IoCPatternDemo.AssemblyInfo.cs
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\IoCPatternDemo.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\bin\Debug\net6.0\IoCPatternDemo.exe
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\bin\Debug\net6.0\IoCPatternDemo.deps.json
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\bin\Debug\net6.0\IoCPatternDemo.runtimeconfig.json
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\bin\Debug\net6.0\IoCPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\bin\Debug\net6.0\IoCPatternDemo.pdb
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\IoCPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\refint\IoCPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\IoCPatternDemo.pdb
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\IoCPatternDemo.genruntimeconfig.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\obj\Debug\net6.0\ref\IoCPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\bin\Debug\net6.0\Data\MoviesDB.json
+C:\FPT\PRN221\Project\DependencyInjectionInNET\IoCPatternDemo\bin\Debug\net6.0\Data\MoviesDB.xml

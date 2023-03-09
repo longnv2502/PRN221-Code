@@ -1,0 +1,62 @@
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\bin\Debug\net6.0\appsettings.Development.json
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\bin\Debug\net6.0\appsettings.json
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.staticwebassets.runtime.json
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.exe
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.deps.json
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.runtimeconfig.json
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.dll
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.pdb
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.AssemblyInfo.cs
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.MvcApplicationPartsAssemblyInfo.cache
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.RazorAssemblyInfo.cache
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.RazorAssemblyInfo.cs
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets\msbuild.RazorPagesLabA1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPagesLabA1.props
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesLabA1.props
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPagesLabA1.props
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets.build.json
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets.development.json
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\scopedcss\bundle\RazorPagesLabA1.styles.css
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\scopedcss\projectbundle\RazorPagesLabA1.bundle.scp.css
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.dll
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\refint\RazorPagesLabA1.dll
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.pdb
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.genruntimeconfig.cache
+C:\FPT\PRN221\Project\RazorPagesLabA1\RazorPagesLabA1\obj\Debug\net6.0\ref\RazorPagesLabA1.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\bin\Debug\net6.0\appsettings.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.staticwebassets.runtime.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.exe
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.deps.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.runtimeconfig.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\bin\Debug\net6.0\RazorPagesLabA1.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.AssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.RazorAssemblyInfo.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.RazorAssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets\msbuild.RazorPagesLabA1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPagesLabA1.props
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesLabA1.props
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPagesLabA1.props
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\scopedcss\bundle\RazorPagesLabA1.styles.css
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\scopedcss\projectbundle\RazorPagesLabA1.bundle.scp.css
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\refint\RazorPagesLabA1.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\RazorPagesLabA1.genruntimeconfig.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-pages-lab\RazorPagesLabA1\obj\Debug\net6.0\ref\RazorPagesLabA1.dll

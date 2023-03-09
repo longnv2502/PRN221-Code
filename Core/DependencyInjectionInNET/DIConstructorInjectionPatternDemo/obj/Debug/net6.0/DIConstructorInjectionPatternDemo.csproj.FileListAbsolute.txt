@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\bin\Debug\net6.0\DIConstructorInjectionPatternDemo.exe
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\bin\Debug\net6.0\DIConstructorInjectionPatternDemo.deps.json
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\bin\Debug\net6.0\DIConstructorInjectionPatternDemo.runtimeconfig.json
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\bin\Debug\net6.0\DIConstructorInjectionPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\bin\Debug\net6.0\DIConstructorInjectionPatternDemo.pdb
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\DIConstructorInjectionPatternDemo.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\DIConstructorInjectionPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\DIConstructorInjectionPatternDemo.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\DIConstructorInjectionPatternDemo.AssemblyInfo.cs
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\DIConstructorInjectionPatternDemo.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\DIConstructorInjectionPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\refint\DIConstructorInjectionPatternDemo.dll
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\DIConstructorInjectionPatternDemo.pdb
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\DIConstructorInjectionPatternDemo.genruntimeconfig.cache
+C:\FPT\PRN221\Project\DependencyInjectionInNET\DIConstructorInjectionPatternDemo\obj\Debug\net6.0\ref\DIConstructorInjectionPatternDemo.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/jEavDxk4z6GOYJPUorE7qtYlbwkblm5oWOLENY7YLo64uvqnqfFnAOpzErmrITvdQ0q1p8YNzEC97tohGQ/3Q==",
+  "success": true,
+  "projectFilePath": "C:\\FPT\\PRN221\\Project\\DependencyInjectionInNET\\DIAmbientContext\\DIAmbientContext.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teacher\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Teacher\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

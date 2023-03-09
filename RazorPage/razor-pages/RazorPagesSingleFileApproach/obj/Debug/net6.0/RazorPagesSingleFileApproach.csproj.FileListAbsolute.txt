@@ -1,0 +1,88 @@
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/bin/Debug/net6.0/appsettings.Development.json
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/bin/Debug/net6.0/appsettings.json
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.staticwebassets.runtime.json
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.exe
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.deps.json
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.runtimeconfig.json
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.dll
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.pdb
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.csproj.AssemblyReference.cache
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.GeneratedMSBuildEditorConfig.editorconfig
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.AssemblyInfoInputs.cache
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.AssemblyInfo.cs
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.csproj.CoreCompileInputs.cache
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.MvcApplicationPartsAssemblyInfo.cache
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.RazorAssemblyInfo.cache
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.RazorAssemblyInfo.cs
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets/msbuild.RazorPagesSingleFileApproach.Microsoft.AspNetCore.StaticWebAssets.props
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets/msbuild.build.RazorPagesSingleFileApproach.props
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.RazorPagesSingleFileApproach.props
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.RazorPagesSingleFileApproach.props
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets.pack.json
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets.build.json
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets.development.json
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/bundle/RazorPagesSingleFileApproach.styles.css
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/projectbundle/RazorPagesSingleFileApproach.bundle.scp.css
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.dll
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/refint/RazorPagesSingleFileApproach.dll
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.pdb
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.genruntimeconfig.cache
+C:/FPT/PRN221/Project/RazorPages/RazorPagesSingleFileApproach/obj/Debug/net6.0/ref/RazorPagesSingleFileApproach.dll
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/appsettings.json
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.staticwebassets.runtime.json
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.exe
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.deps.json
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.runtimeconfig.json
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.dll
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.pdb
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.csproj.AssemblyReference.cache
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.AssemblyInfoInputs.cache
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.AssemblyInfo.cs
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.csproj.CoreCompileInputs.cache
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.RazorAssemblyInfo.cache
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.RazorAssemblyInfo.cs
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets/msbuild.RazorPagesSingleFileApproach.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets/msbuild.build.RazorPagesSingleFileApproach.props
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.RazorPagesSingleFileApproach.props
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.RazorPagesSingleFileApproach.props
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/bundle/RazorPagesSingleFileApproach.styles.css
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/projectbundle/RazorPagesSingleFileApproach.bundle.scp.css
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.dll
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/refint/RazorPagesSingleFileApproach.dll
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.pdb
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.genruntimeconfig.cache
+C:/Users/dclon/OneDrive - 1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/ref/RazorPagesSingleFileApproach.dll
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/appsettings.Development.json
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/appsettings.json
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.staticwebassets.runtime.json
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.deps.json
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.runtimeconfig.json
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.dll
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/bin/Debug/net6.0/RazorPagesSingleFileApproach.pdb
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.csproj.AssemblyReference.cache
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.AssemblyInfoInputs.cache
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.AssemblyInfo.cs
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.csproj.CoreCompileInputs.cache
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.MvcApplicationPartsAssemblyInfo.cache
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.RazorAssemblyInfo.cache
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.RazorAssemblyInfo.cs
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/bundle/RazorPagesSingleFileApproach.styles.css
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/scopedcss/projectbundle/RazorPagesSingleFileApproach.bundle.scp.css
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.dll
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/refint/RazorPagesSingleFileApproach.dll
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.pdb
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/RazorPagesSingleFileApproach.genruntimeconfig.cache
+/Users/nguyenvanlong/Library/CloudStorage/OneDrive-1gtfy6/Documents/FPT_University/23_SPR/PRN221/Project/RazorPage/razor-pages/RazorPagesSingleFileApproach/obj/Debug/net6.0/ref/RazorPagesSingleFileApproach.dll

@@ -1,0 +1,78 @@
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\appsettings.Development.json
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\appsettings.json
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\RazorPage2.staticwebassets.runtime.json
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\RazorPage2.exe
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\RazorPage2.deps.json
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\RazorPage2.runtimeconfig.json
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\RazorPage2.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\RazorPage2.pdb
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.AssemblyInfo.cs
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.MvcApplicationPartsAssemblyInfo.cache
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.RazorAssemblyInfo.cache
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.RazorAssemblyInfo.cs
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\staticwebassets\msbuild.RazorPage2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPage2.props
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPage2.props
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPage2.props
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\staticwebassets.build.json
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\staticwebassets.development.json
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\scopedcss\bundle\RazorPage2.styles.css
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\scopedcss\projectbundle\RazorPage2.bundle.scp.css
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\refint\RazorPage2.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.pdb
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.genruntimeconfig.cache
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\ref\RazorPage2.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\System.Web.Razor.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\FPT\PRN221\Project\RazorPage2\RazorPage2\obj\Debug\net6.0\RazorPage2.csproj.CopyComplete
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\appsettings.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\RazorPage2.staticwebassets.runtime.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\RazorPage2.exe
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\RazorPage2.deps.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\RazorPage2.runtimeconfig.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\RazorPage2.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\RazorPage2.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.AssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.RazorAssemblyInfo.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.RazorAssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\staticwebassets\msbuild.RazorPage2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPage2.props
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPage2.props
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPage2.props
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\scopedcss\bundle\RazorPage2.styles.css
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\scopedcss\projectbundle\RazorPage2.bundle.scp.css
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.csproj.CopyComplete
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\refint\RazorPage2.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\RazorPage2.genruntimeconfig.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\RazorPage\razor-page-2\RazorPage2\obj\Debug\net6.0\ref\RazorPage2.dll

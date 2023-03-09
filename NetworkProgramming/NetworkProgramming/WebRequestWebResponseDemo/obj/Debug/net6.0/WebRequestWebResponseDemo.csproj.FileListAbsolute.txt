@@ -1,0 +1,15 @@
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\bin\Debug\net6.0\WebRequestWebResponseDemo.exe
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\bin\Debug\net6.0\WebRequestWebResponseDemo.deps.json
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\bin\Debug\net6.0\WebRequestWebResponseDemo.runtimeconfig.json
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\bin\Debug\net6.0\WebRequestWebResponseDemo.dll
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\bin\Debug\net6.0\WebRequestWebResponseDemo.pdb
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\WebRequestWebResponseDemo.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\WebRequestWebResponseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\WebRequestWebResponseDemo.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\WebRequestWebResponseDemo.AssemblyInfo.cs
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\WebRequestWebResponseDemo.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\WebRequestWebResponseDemo.dll
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\refint\WebRequestWebResponseDemo.dll
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\WebRequestWebResponseDemo.pdb
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\WebRequestWebResponseDemo.genruntimeconfig.cache
+C:\FPT\PRN221\Project\NetworkProgramming\WebRequestWebResponseDemo\obj\Debug\net6.0\ref\WebRequestWebResponseDemo.dll
